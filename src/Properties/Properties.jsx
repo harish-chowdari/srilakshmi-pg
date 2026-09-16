@@ -1,7 +1,7 @@
 import React from 'react'
 import { MapPin, ArrowRight } from 'lucide-react'
 import { href, Link } from 'react-router-dom'
-import pgEnterance from '../assets/pg-enterance.png'
+import pgEnterance from '../assets/pg-enterance.jpg'
 
 
 function Properties() {

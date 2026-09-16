@@ -36,9 +36,9 @@ function Pashan() {
       </section>
 
       {/* PROPERTY GALLERY */}
-      {/* <section id="gallery">
-        <PashanGallery />
-      </section> */}
+      <section id="gallery">
+        // <PashanGallery />
+      </section>
 
       {/* LOCATION */}
       <section id="location">

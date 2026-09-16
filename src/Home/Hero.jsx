@@ -1,6 +1,6 @@
 import React from 'react';
 import { ArrowRight, Calendar, Building2, Users, MapPin, ShieldCheck, Phone } from 'lucide-react';
-import pgEnterance from '../assets/pg-enterance.png'
+import pgEnterance from '../assets/pg-enterance.jpg'
 
 
 function Hero() {

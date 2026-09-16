@@ -8,31 +8,31 @@ import { Expand } from 'lucide-react';
 // .png/.jpeg, or sit directly in src/assets/ instead of a "gallery"
 // subfolder, just update the paths below to match.
 // ---------------------------------------------------------------------------
-import building2 from '../../assets/building-2.jpeg';
-import pgEnterance from '../../assets/pg-enterance.png';
-import building1 from '../../assets/building-1.png';
-import sharing1 from '../../assets/1-sharing-1.jpeg';
-import sharing2 from '../../assets/2-sharing-1.jpeg';
-import shareEnterance from '../../assets/3-share-enterance.jpeg';
-import sharing3a from '../../assets/3-sharing-1.jpeg';
-import sharing3b from '../../assets/3-sharing-2.jpeg';
-import parking from '../../assets/parking.jpeg';
-import ro from '../../assets/ro.jpeg';
-import washingMachine from '../../assets/washing-machine.jpeg';
+// import building1 from '../../assets/building-1.png';
+// import building2 from '../../assets/building-2.jepg';
+import pgEnterance from '../../assets/pg-enterance.jpg';
+import sharing1 from '../../assets/1-sharing-1.jpg';
+import sharing2 from '../../assets/2-sharing-1.jpg';
+// import shareEnterance from '../../assets/3-share-enterance.jpeg';
+// import sharing3a from '../../assets/3-sharing-1.jpeg';
+// import sharing3b from '../../assets/3-sharing-2.jpeg';
+import parking from '../../assets/parking.jpg';
+// import ro from '../../assets/ro.jpeg';
+// import washingMachine from '../../assets/washing-machine.jpeg';
 
 function BanerGallery() {
   const images = [
-    { src: building2, alt: 'Sky Inn building exterior view 2' },
+    // { src: building1, alt: 'Sky Inn building exterior view 1' },
+    // { src: building2, alt: 'Sky Inn building exterior view 2' },
     { src: pgEnterance, alt: 'Sky Inn PG entrance' },
-    { src: building1, alt: 'Sky Inn building exterior view 1' },
     { src: sharing1, alt: 'Sky Inn single sharing room' },
     { src: sharing2, alt: 'Sky Inn twin sharing room' },
-    { src: shareEnterance, alt: 'Sky Inn triple sharing room entrance' },
-    { src: sharing3a, alt: 'Sky Inn triple sharing room 1' },
-    { src: sharing3b, alt: 'Sky Inn triple sharing room 2' },
+    // { src: shareEnterance, alt: 'Sky Inn triple sharing room entrance' },
+    // { src: sharing3a, alt: 'Sky Inn triple sharing room 1' },
+    // { src: sharing3b, alt: 'Sky Inn triple sharing room 2' },
     { src: parking, alt: 'Sky Inn parking area' },
-    { src: ro, alt: 'Sky Inn RO water plant' },
-    { src: washingMachine, alt: 'Sky Inn washing machine' },
+    // { src: ro, alt: 'Sky Inn RO water plant' },
+    // { src: washingMachine, alt: 'Sky Inn washing machine' },
   ];
 
   return (
