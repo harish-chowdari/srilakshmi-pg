@@ -8,7 +8,7 @@ import PashanContact from './PashanContact'
 import PashanFooter from './PashanFooter'
 import PashanLocation from './PashanLocation'
 
-function Pashandi() {
+function Pashan() {
   return (
     <div>
 
@@ -56,4 +56,4 @@ function Pashandi() {
   )
 }
 
-export default Pashandi
+export default Pashan

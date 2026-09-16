@@ -3,16 +3,16 @@ import { Users, Check } from 'lucide-react';
 
 function PashanRooms() {
   const rooms = [
-    // {
-    //   name: 'Single Sharing',
-    //   status: 'AVAILABLE NOW',
-    //   features: ['Living Essentials', 'Everything You Need', 'Comfort & Convenience'],
-    // },
-    // {
-    //   name: 'Twin Sharing',
-    //   status: 'AVAILABLE NOW',
-    //   features: ['Living Essentials', 'Everything You Need', 'Comfort & Convenience'],
-    // },
+    {
+      name: 'Single Sharing',
+      status: 'AVAILABLE NOW',
+      features: ['Living Essentials', 'Everything You Need', 'Comfort & Convenience'],
+    },
+    {
+      name: 'Twin Sharing',
+      status: 'AVAILABLE NOW',
+      features: ['Living Essentials', 'Everything You Need', 'Comfort & Convenience'],
+    },
     {
       name: 'Triple Sharing',
       status: 'AVAILABLE NOW',
