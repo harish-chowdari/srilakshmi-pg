@@ -55,8 +55,8 @@ function PashanContact() {
             <div>
               <div className="text-[#0B1526] font-bold text-base mb-1">Call Us</div>
               <div className="text-gray-600 text-sm leading-relaxed">
-                <a href="tel:+919112233977" className="block hover:text-[#0B1526]">+91 9112233977</a>
-                {/* <a href="tel:+919112233977" className="block hover:text-[#0B1526]">+91 9112233977</a> */}
+                <a href="tel:+919112488666" className="block hover:text-[#0B1526]">+91 9112488666</a>
+                {/* <a href="tel:+919112488666" className="block hover:text-[#0B1526]">+91 9112488666</a> */}
               </div>
             </div>
           </div>

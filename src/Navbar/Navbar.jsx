@@ -413,7 +413,7 @@ function Navbar() {
             {/* PHONE */}
 
             <a
-              href="tel:+919112233977"
+              href="tel:+919112488666"
               className="flex items-center justify-center gap-2 bg-white/10 text-white font-medium text-sm px-5 py-3 rounded-md"
             >
 
@@ -422,7 +422,7 @@ function Navbar() {
                 className="text-[#A6CE39]"
               />
 
-              +91 9112233977
+              +91 9112488666
 
             </a>
 

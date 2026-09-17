@@ -39,10 +39,10 @@ function PashanHero() {
 
         {/* Mobile Phone Number */}
         <a
-          href="tel:+919112233977"
+          href="tel:+919112488666"
           className="block text-white/80 text-sm font-semibold mt-2"
         >
-          9112233977
+          9112488666
         </a>
 
         {/* Location */}

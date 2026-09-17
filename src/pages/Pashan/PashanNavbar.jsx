@@ -311,7 +311,7 @@ function PashanNavbar() {
           <div className="shrink-0 px-5 pt-4 pb-6 flex flex-col gap-3 bg-[#0B1526] border-t border-white/10">
 
             <a
-              href="tel:+919112233977"
+              href="tel:+919112488666"
               className="flex items-center justify-center gap-2 bg-white/10 text-white font-medium text-sm px-5 py-3 rounded-md"
             >
 
@@ -320,7 +320,7 @@ function PashanNavbar() {
                 className="text-[#A6CE39]"
               />
 
-              +91 9112233977
+              +91 9112488666
 
             </a>
 

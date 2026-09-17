@@ -137,7 +137,7 @@ function PashanFooter() {
             <div className="flex flex-col gap-3">
 
               <a
-                href="tel:+919112233977"
+                href="tel:+919112488666"
                 className="flex items-center gap-2 text-gray-400 text-sm hover:text-[#A6CE39] transition-colors w-fit"
               >
                 <Phone
@@ -145,11 +145,11 @@ function PashanFooter() {
                   className="text-[#A6CE39] shrink-0"
                 />
 
-                +91 9112233977
+                +91 9112488666
               </a>
 
               {/* <a
-                href="tel:+919112233977"
+                href="tel:+919112488666"
                 className="flex items-center gap-2 text-gray-400 text-sm hover:text-[#A6CE39] transition-colors w-fit"
               >
                 <Phone
@@ -157,7 +157,7 @@ function PashanFooter() {
                   className="text-[#A6CE39] shrink-0"
                 />
 
-                +91 9112233977
+                +91 9112488666
               </a> */}
 
               <div className="flex items-start gap-2 text-gray-400 text-sm leading-relaxed">
@@ -168,8 +168,7 @@ function PashanFooter() {
                 />
 
                 <span>
-                  Flat No 302, Spiro Elegance Opposite Smart Chemist Ganraj Chowk,
-                  Baner, Pune, Maharashtra 411045
+                  Sr No: 29/7A, ShivDatta Residency, Datta Niwas Rd, Pashan Sutarwadi Link Rd, Sutarwadi, Pashan, Pune, Maharashtra 411021
                 </span>
 
               </div>

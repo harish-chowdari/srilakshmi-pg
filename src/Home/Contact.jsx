@@ -107,7 +107,7 @@ function Contact() {
               <div>
                 <div className="text-white font-bold text-xs tracking-wide mb-1">CALL US</div>
                 <div className="text-white/70 text-sm leading-relaxed">
-                  <a href="tel:+919112233977" className="block hover:text-[#A6CE39] transition-colors">+91 9112233977</a>
+                  <a href="tel:+919112488666" className="block hover:text-[#A6CE39] transition-colors">+91 9112488666</a>
                 </div>
               </div>
             </div>
