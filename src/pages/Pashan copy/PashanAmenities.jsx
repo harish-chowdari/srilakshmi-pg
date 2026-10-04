@@ -14,7 +14,7 @@ import {
   Droplet,
 } from 'lucide-react';
 
-function BanerAmenities() {
+function PashanAmenities() {
   const amenities = [
     { icon: Wifi, label: 'Wi-Fi' },
     { icon: Video, label: 'CCTV' },
@@ -57,4 +57,4 @@ function BanerAmenities() {
   );
 }
 
-export default BanerAmenities;
+export default PashanAmenities;

@@ -1,10 +1,10 @@
 import React from 'react';
 import { CheckCircle2 } from 'lucide-react';
 
-function BanerAbout() {
+function PashanAbout() {
   const highlights = [
     'Fully furnished rooms',
-    'Prime location connectivity (Baner)',
+    'Prime location connectivity (Pashan)',
     'Safe & hygienic environment',
     'Affordable pricing options',
   ];
@@ -17,16 +17,16 @@ function BanerAbout() {
         </h2>
 
         <p className="text-gray-500 text-sm sm:text-base leading-relaxed max-w-4xl">
-          Welcome to <span className="text-[#0B1526] font-semibold">Sky Inn PG Services In Baner</span>, your perfect
+          Welcome to <span className="text-[#0B1526] font-semibold">Sri Lakshmi Luxury PG For Boy's in Pashan</span>, your perfect
           stay option in Pune for comfort, convenience, and affordability. Located in the prime
-          area of Baner, our PG offers well-maintained single sharing and double sharing rooms
+          area of Pashan, our PG offers well-maintained single sharing and double sharing rooms
           designed for working professionals and students.
         </p>
 
         <p className="text-gray-500 text-sm sm:text-base leading-relaxed max-w-4xl mt-4">
           We provide a peaceful and secure environment with all essential amenities to make your
           stay hassle-free. Whether you're new to the city or looking for a better accommodation
-          upgrade, Sky Inn ensures a homely experience with modern facilities.
+          upgrade, Sri Lakshmi Luxury PG For Boy's ensures a homely experience with modern facilities.
         </p>
 
         {/* Highlights */}
@@ -52,4 +52,4 @@ function BanerAbout() {
   );
 }
 
-export default BanerAbout;
+export default PashanAbout;

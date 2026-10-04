@@ -1,7 +1,7 @@
 import React from 'react';
 import { Users, Check } from 'lucide-react';
 
-function BanerRooms() {
+function PashanRooms() {
   const rooms = [
     {
       name: 'Single Sharing',
@@ -76,4 +76,4 @@ function BanerRooms() {
   );
 }
 
-export default BanerRooms;
+export default PashanRooms;

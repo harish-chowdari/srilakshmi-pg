@@ -20,7 +20,7 @@ import parking from '../../assets/parking.jpg';
 // import ro from '../../assets/ro.jpeg';
 // import washingMachine from '../../assets/washing-machine.jpeg';
 
-function BanerGallery() {
+function PashanGallery() {
   const images = [
     // { src: building1, alt: 'Sky Inn building exterior view 1' },
     // { src: building2, alt: 'Sky Inn building exterior view 2' },
@@ -74,4 +74,4 @@ function BanerGallery() {
   );
 }
 
-export default BanerGallery;
+export default PashanGallery;

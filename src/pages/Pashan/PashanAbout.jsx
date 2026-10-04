@@ -17,7 +17,7 @@ function PashanAbout() {
         </h2>
 
         <p className="text-gray-500 text-sm sm:text-base leading-relaxed max-w-4xl">
-          Welcome to <span className="text-[#0B1526] font-semibold">Sri Lakshmi Luxury PG In Pashan</span>, your perfect
+          Welcome to <span className="text-[#0B1526] font-semibold">Sri Lakshmi Luxury PG For Boy's in Pashan</span>, your perfect
           stay option in Pune for comfort, convenience, and affordability. Located in the prime
           area of Pashan, our PG offers well-maintained single sharing and double sharing rooms
           designed for working professionals and students.

@@ -1,13 +1,13 @@
 import React from 'react';
 import { ChevronRight, MapPin } from 'lucide-react';
 
-function BanerHero() {
+function PashanHero() {
   return (
     <section className="relative overflow-hidden">
       {/* Background image */}
       <img
         src="https://picsum.photos/seed/skyinn-baner-hero/1600/500"
-        alt="Sky Inn PG Services in Baner building"
+        alt="Sri Lakshmi Luxury PG in Pashan building"
         className="absolute inset-0 w-full h-full object-cover"
       />
 
@@ -23,7 +23,7 @@ function BanerHero() {
             HOME
           </a>
           <ChevronRight size={14} className="text-white/50" />
-          <span className="text-[#A6CE39]">Sky Inn PG Services in Baner</span>
+          <span className="text-[#A6CE39]">Sri Lakshmi Luxury PG For Boy's in Pashan</span>
         </div>
 
         {/* Badge */}
@@ -34,22 +34,22 @@ function BanerHero() {
         {/* Title */}
         {/* Title */}
         <h1 className="text-white font-extrabold text-4xl sm:text-5xl lg:text-6xl leading-tight">
-          Sky Inn PG Services in Baner
+          Sri Lakshmi Luxury PG in Pashan
         </h1>
 
         {/* Mobile Phone Number */}
         <a
-          href="tel:+919112233977"
+          href="tel:+919112488666"
           className="block text-white/80 text-sm font-semibold mt-2"
         >
-          9112233977
+          9112488666
         </a>
 
         {/* Location */}
         <div className="flex items-start gap-2 mt-4">
           <MapPin size={16} className="text-[#A6CE39] shrink-0 mt-0.5" />
           <span className="text-gray-200 font-semibold text-sm sm:text-base leading-relaxed">
-            Flat No 1, Krantisurya Apt, Pan Card Club Rd, Sky Inn Pg Services Road, Baner, Pune, Maharashtra 411045
+            Kokate Complex, 6/15 Heera Heights, Pashan-Sutarwadi Link Rd, Path, Pashan, Pune, Maharashtra 411021
           </span>
         </div>
       </div>
@@ -57,4 +57,4 @@ function BanerHero() {
   );
 }
 
-export default BanerHero;
+export default PashanHero;

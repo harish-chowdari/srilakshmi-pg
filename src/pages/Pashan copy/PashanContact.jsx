@@ -7,7 +7,7 @@ import { Phone, MapPin, ArrowRight } from 'lucide-react';
 // just click Send in their own mail app.
 const RECIPIENT_EMAIL = 'chakravarthiyadav334@gmail.com';
 
-function BanerContact() {
+function PashanContact() {
   const [formData, setFormData] = useState({ name: '', phone: '', message: '' });
   const [status, setStatus] = useState('idle'); // idle | success | error
 
@@ -23,7 +23,7 @@ function BanerContact() {
       return;
     }
 
-    const subject = `Sky Inn Baner enquiry from ${formData.name}`;
+    const subject = `Sri Lakshmi Luxury PG Pashan enquiry from ${formData.name}`;
     const body =
       `Name: ${formData.name}\n` +
       `Phone: ${formData.phone}\n` +
@@ -44,7 +44,7 @@ function BanerContact() {
         <div>
           <h2 className="text-[#0B1526] font-extrabold text-3xl sm:text-4xl">Get in Touch</h2>
           <p className="text-gray-500 text-sm sm:text-base mt-4 max-w-md leading-relaxed">
-            Have questions about Sky Inn Baner or want to schedule a personalized tour? Reach
+            Have questions about Sri Lakshmi Luxury PG Pashan or want to schedule a personalized tour? Reach
             out to our team directly.
           </p>
 
@@ -55,8 +55,8 @@ function BanerContact() {
             <div>
               <div className="text-[#0B1526] font-bold text-base mb-1">Call Us</div>
               <div className="text-gray-600 text-sm leading-relaxed">
-                <a href="tel:+919112233977" className="block hover:text-[#0B1526]">+91 9112233977</a>
-                {/* <a href="tel:+919112233977" className="block hover:text-[#0B1526]">+91 9112233977</a> */}
+                <a href="tel:+919112488666" className="block hover:text-[#0B1526]">+91 9112488666</a>
+                {/* <a href="tel:+919112488666" className="block hover:text-[#0B1526]">+91 9112488666</a> */}
               </div>
             </div>
           </div>
@@ -68,7 +68,7 @@ function BanerContact() {
             <div>
               <div className="text-[#0B1526] font-bold text-base mb-1">Visit Property</div>
               <div className="text-gray-600 text-sm leading-relaxed">
-                Flat No 1, Krantisurya Apt, Pan Card Club Rd, Sky Inn Pg Services Road, Baner, Pune, Maharashtra 411045
+                Kokate Complex, 6/15 Heera Heights, Pashan-Sutarwadi Link Rd, Path, Pashan, Pune, Maharashtra 411021
               </div>
             </div>
           </div>
@@ -150,4 +150,4 @@ function BanerContact() {
   );
 }
 
-export default BanerContact;
+export default PashanContact;

@@ -2,16 +2,16 @@ import React from 'react'
 import { Phone, MapPin } from 'lucide-react'
 import { Link } from 'react-router-dom'
 
-function BanerFooter() {
+function PashanFooter() {
 
   const properties = [
     {
-      name: 'Sky Inn PG in Baner',
-      href: '/sky-inn-pg-baner',
+      name: 'Sri Lakshmi Luxury PG in Pashan',
+      href: '/sri-lakshmi-luxury-pg',
     },
     {
-      name: 'Sky Inn PG Services in Baner',
-      href: '/sky-inn-pg-services-baner',
+      name: "Sri Lakshmi Luxury PG For Boy's in Pashan",
+      href: '/sri-lakshmi-luxury-pg2',
     },
   ]
 
@@ -24,10 +24,10 @@ function BanerFooter() {
       name: 'Amenities',
       href: '#amenities',
     },
-    {
-      name: 'Gallery',
-      href: '#gallery',
-    },
+    // {
+    //   name: 'Gallery',
+    //   href: '#gallery',
+    // },
     {
       name: 'Contact',
       href: '#contact',
@@ -50,7 +50,7 @@ function BanerFooter() {
               className="flex flex-col leading-none w-fit"
             >
               <span className="text-white font-extrabold text-xl sm:text-2xl tracking-wide">
-                Sky Inn
+                Sri Lakshmi Luxury PG
               </span>
 
               <svg
@@ -137,7 +137,7 @@ function BanerFooter() {
             <div className="flex flex-col gap-3">
 
               <a
-                href="tel:+919112233977"
+                href="tel:+919112488666"
                 className="flex items-center gap-2 text-gray-400 text-sm hover:text-[#A6CE39] transition-colors w-fit"
               >
                 <Phone
@@ -145,11 +145,11 @@ function BanerFooter() {
                   className="text-[#A6CE39] shrink-0"
                 />
 
-                +91 9112233977
+                +91 9112488666
               </a>
 
               {/* <a
-                href="tel:+919112233977"
+                href="tel:+919112488666"
                 className="flex items-center gap-2 text-gray-400 text-sm hover:text-[#A6CE39] transition-colors w-fit"
               >
                 <Phone
@@ -157,7 +157,7 @@ function BanerFooter() {
                   className="text-[#A6CE39] shrink-0"
                 />
 
-                +91 9112233977
+                +91 9112488666
               </a> */}
 
               <div className="flex items-start gap-2 text-gray-400 text-sm leading-relaxed">
@@ -168,8 +168,7 @@ function BanerFooter() {
                 />
 
                 <span>
-                  Flat No 1, Krantisurya Apt, Pan Card Club Rd,
-                  Baner, Pune, Maharashtra 411045
+                  Kokate Complex, 6/15 Heera Heights, Pashan-Sutarwadi Link Rd, Path, Pashan, Pune, Maharashtra 411021
                 </span>
 
               </div>
@@ -186,7 +185,7 @@ function BanerFooter() {
         <div className="border-t border-white/10 mt-12 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4">
 
           <div className="text-gray-500 text-sm text-center sm:text-left">
-            © {new Date().getFullYear()} Sky Inn PG. All rights reserved.
+            © {new Date().getFullYear()} Sri Lakshmi Luxury PG. All rights reserved.
           </div>
 
           <div className="flex items-center gap-6">
@@ -215,4 +214,4 @@ function BanerFooter() {
   )
 }
 
-export default BanerFooter
+export default PashanFooter

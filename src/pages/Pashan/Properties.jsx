@@ -21,7 +21,7 @@ function Properties() {
     //   description:
     //     'Newly built PG with modern amenities, comfortable living spaces, excellent connectivity, and a safe, welcoming environment.',
     //   image: pgEnterance,
-    //   href: '/sky-inn-pg-services-baner',
+    //   href: '/sri-lakshmi-luxury-pg2',
     // },
   ]
 

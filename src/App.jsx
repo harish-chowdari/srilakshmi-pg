@@ -10,7 +10,7 @@ import Gallery from './Home/Gallery'
 import Contact from './Home/Contact'
 
 import Pashan from './pages/Pashan/Pashan'
-import Baner from './pages/Baner/Baner'
+import Pashan2 from './pages/Pashan copy/Pashan'
 
 import './App.css'
 import Footer from './Home/Footer'
@@ -69,8 +69,8 @@ function App() {
         />
 
         <Route
-          path="/sky-inn-pg-services-baner"
-          element={<Baner />}
+          path="/sri-lakshmi-luxury-pg2"
+          element={<Pashan2 />}
         />
 
       </Routes>

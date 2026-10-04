@@ -2,28 +2,27 @@ import React from 'react'
 import { MapPin, ArrowRight } from 'lucide-react'
 import { href, Link } from 'react-router-dom'
 import pgEnterance from '../assets/pg-enterance.jpg'
-import pg2Enterance from '../assets/pg2-enterance.jpeg'
 
 
 function Properties() {
   const properties = [
     {
       name: 'Sri Lakshmi Luxury PG in Pashan',
-      location: 'Sr No: 29/7A, ShivDatta Residency, Datta Niwas Rd, Pashan Sutarwadi Link Rd, Sutarwadi, Pashan, Pune, Maharashtra 411021',
+      location: 'Kokate Complex, 6/15 Heera Heights, Pashan-Sutarwadi Link Rd, Path, Pashan, Pune, Maharashtra 411021',
       description:
-        'Welcome to Sri Lakshmi Luxury PG Pashan – a newly built premium PG designed for modern, comfortable, and hassle-free living. Our fully furnished rooms are...',
+        'Welcome to Sri Lakshmi Luxury Pashan – a newly built premium PG designed for modern, comfortable, and hassle-free living. Our fully furnished rooms are...',
       image: pgEnterance,
       href: '/sri-lakshmi-luxury-pg',
     },
-    {
-      name: "Sri Lakshmi Luxury PG For Boy's in Pashan",
-      location:
-        'Kokate Complex, 6/15 Heera Heights, Pashan-Sutarwadi Link Rd, Path, Pashan, Pune, Maharashtra 411021',
-      description:
-        'Newly built PG with modern amenities, comfortable living spaces, excellent connectivity, and a safe, welcoming environment.',
-      image: pg2Enterance,
-      href: '/sri-lakshmi-luxury-pg2',
-    },
+    // {
+    //   name: 'Sky Inn PG Services in Baner',
+    //   location:
+    //     'Flat No 1, Krantisurya Apt, Pan Card Club Rd, Sky Inn Pg Services Road, Baner, Pune, Maharashtra 411045',
+    //   description:
+    //     'Newly built PG with modern amenities, comfortable living spaces, excellent connectivity, and a safe, welcoming environment.',
+    //   image: pgEnterance,
+    //   href: '/sri-lakshmi-luxury-pg2',
+    // },
   ]
 
   const navigate = (href) => {

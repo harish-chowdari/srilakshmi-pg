@@ -13,10 +13,10 @@ function Footer() {
       name: 'Sri Lakshmi Luxury PG in Pashan',
       href: '/sri-lakshmi-luxury-pg',
     },
-    // {
-    //   name: 'Sky Inn PG Services in Baner',
-    //   href: '/sky-inn-pg-services-baner',
-    // },
+    {
+      name: "Sri Lakshmi Luxury PG For Boy's in Pashan",
+      href: '/sri-lakshmi-luxury-pg2',
+    },
   ]
 
 

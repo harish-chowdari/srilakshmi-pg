@@ -22,7 +22,7 @@ function PashanNavbar() {
     },
     // {
     //   name: 'Sky Inn PG Services in Baner',
-    //   href: '/sky-inn-pg-services-baner',
+    //   href: '/sri-lakshmi-luxury-pg2',
     // },
   ]
 
